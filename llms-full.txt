@@ -1,0 +1,51 @@
+# Geotecnia1 — Sao Jose dos Campos
+
+> Geotechnical engineering services in Sao Jose dos Campos, Brasil.
+
+## Services
+- [Ancoragens](https://sao-jose-dos-campos.geotecnia1.sbs/ancoragens/)
+- [Cbr Viario](https://sao-jose-dos-campos.geotecnia1.sbs/cbr-viario/)
+- [Colunas Brita](https://sao-jose-dos-campos.geotecnia1.sbs/colunas-brita/)
+- [Densidade Cone Areia](https://sao-jose-dos-campos.geotecnia1.sbs/densidade-cone-areia/)
+- [Ensaio Cpt](https://sao-jose-dos-campos.geotecnia1.sbs/ensaio-cpt/)
+- [Ensaios Proctor](https://sao-jose-dos-campos.geotecnia1.sbs/ensaios-proctor/)
+- [Escavacoes](https://sao-jose-dos-campos.geotecnia1.sbs/escavacoes/)
+- [Escavacoes Profundas](https://sao-jose-dos-campos.geotecnia1.sbs/escavacoes-profundas/)
+- [Estabilidade Taludes](https://sao-jose-dos-campos.geotecnia1.sbs/estabilidade-taludes/)
+- [Estacas](https://sao-jose-dos-campos.geotecnia1.sbs/estacas/)
+- [Fundacoes](https://sao-jose-dos-campos.geotecnia1.sbs/fundacoes/)
+- [Geotecnia Viaria](https://sao-jose-dos-campos.geotecnia1.sbs/geotecnia-viaria/)
+- [Granulometria](https://sao-jose-dos-campos.geotecnia1.sbs/granulometria/)
+- [Injecoes](https://sao-jose-dos-campos.geotecnia1.sbs/injecoes/)
+- [Investigacao](https://sao-jose-dos-campos.geotecnia1.sbs/investigacao/)
+- [Isolamento Sismico](https://sao-jose-dos-campos.geotecnia1.sbs/isolamento-sismico/)
+- [Lab In Situ](https://sao-jose-dos-campos.geotecnia1.sbs/lab-in-situ/)
+- [Laboratorio](https://sao-jose-dos-campos.geotecnia1.sbs/laboratorio/)
+- [Limites Atterberg](https://sao-jose-dos-campos.geotecnia1.sbs/limites-atterberg/)
+- [Liquefacao](https://sao-jose-dos-campos.geotecnia1.sbs/liquefacao/)
+- [Masw](https://sao-jose-dos-campos.geotecnia1.sbs/masw/)
+- [Melhoramento](https://sao-jose-dos-campos.geotecnia1.sbs/melhoramento/)
+- [Microzoneamento Sismico](https://sao-jose-dos-campos.geotecnia1.sbs/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://sao-jose-dos-campos.geotecnia1.sbs/monitoramento-escavacoes/)
+- [Muros Contencao](https://sao-jose-dos-campos.geotecnia1.sbs/muros-contencao/)
+- [Pavimento Flexivel](https://sao-jose-dos-campos.geotecnia1.sbs/pavimento-flexivel/)
+- [Pavimento Rigido](https://sao-jose-dos-campos.geotecnia1.sbs/pavimento-rigido/)
+- [Permeabilidade In Situ](https://sao-jose-dos-campos.geotecnia1.sbs/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://sao-jose-dos-campos.geotecnia1.sbs/pocos-inspecao/)
+- [Radiers](https://sao-jose-dos-campos.geotecnia1.sbs/radiers/)
+- [Refracao Sismica](https://sao-jose-dos-campos.geotecnia1.sbs/refracao-sismica/)
+- [Resistividade](https://sao-jose-dos-campos.geotecnia1.sbs/resistividade/)
+- [Sapatas](https://sao-jose-dos-campos.geotecnia1.sbs/sapatas/)
+- [Sismica](https://sao-jose-dos-campos.geotecnia1.sbs/sismica/)
+- [Sondagens Spt](https://sao-jose-dos-campos.geotecnia1.sbs/sondagens-spt/)
+- [Taludes](https://sao-jose-dos-campos.geotecnia1.sbs/taludes/)
+- [Triaxial](https://sao-jose-dos-campos.geotecnia1.sbs/triaxial/)
+- [Tuneis Solo Mole](https://sao-jose-dos-campos.geotecnia1.sbs/tuneis-solo-mole/)
+- [Vibrocompactacao](https://sao-jose-dos-campos.geotecnia1.sbs/vibrocompactacao/)
+
+## Contact
+- Website: https://sao-jose-dos-campos.geotecnia1.sbs/
+
+## About
+This site provides geotechnical engineering services in Sao Jose dos Campos, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).

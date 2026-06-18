@@ -14,6 +14,7 @@
 - [Estabilidade Taludes](https://sao-jose-dos-campos.geotecnia1.sbs/estabilidade-taludes/)
 - [Estacas](https://sao-jose-dos-campos.geotecnia1.sbs/estacas/)
 - [Fundacoes](https://sao-jose-dos-campos.geotecnia1.sbs/fundacoes/)
+- [Geofisica](https://sao-jose-dos-campos.geotecnia1.sbs/geofisica/)
 - [Geotecnia Viaria](https://sao-jose-dos-campos.geotecnia1.sbs/geotecnia-viaria/)
 - [Granulometria](https://sao-jose-dos-campos.geotecnia1.sbs/granulometria/)
 - [Injecoes](https://sao-jose-dos-campos.geotecnia1.sbs/injecoes/)
